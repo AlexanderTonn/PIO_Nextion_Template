@@ -1,4 +1,6 @@
 #include <Arduino.h>
+#include "wearAndTear.hpp"
+#include "Terminal.hpp"
 
 void setup() {
   // put your setup code here, to run once:

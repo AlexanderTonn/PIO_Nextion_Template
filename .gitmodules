@@ -1,0 +1,6 @@
+[submodule "lib/Arduino_IOclass"]
+	path = lib/Arduino_IOclass
+	url = https://github.com/AlexanderTonn/Arduino_IOclass.git
+[submodule "lib/Arduino_EdgeDetection"]
+	path = lib/Arduino_EdgeDetection
+	url = https://github.com/AlexanderTonn/Arduino_EdgeDetection.git
